@@ -36,6 +36,12 @@ class Author(Col):
     label = 'Author'
     def render(self, dat):
         auth = dat['author']
+        # Special case: Sins of the Cities of the Plain
+        if auth is None:
+            return '"Jack Saul"'
+        elif auth == 'Michael Nelson':
+            # disambiguate
+            return '[[Michael Nelson (novelist)|Michael Nelson]]'
         return f'[[{auth}]]'
 
 GENRE_BLACKLIST = {
@@ -173,7 +179,7 @@ GLBT1 = {
         "Imre: A Memorandum",
 }
 GLBT2 = {
-        "Betram Cope's Year",
+        "Bertram Cope's Year",
 }
 GLBT3 = {
         "Better Angel",
@@ -195,7 +201,7 @@ def main():
     with open(dat_fname) as f:
         noveldat = json.load(f)
 
-    out_fname = 'gay_novels.wiki'
+    out_fname = 'table.wiki'
     with open(out_fname, 'w') as f:
         for line in render_table(noveldat):
             f.write(line + '\n')
