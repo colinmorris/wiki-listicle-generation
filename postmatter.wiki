@@ -1,0 +1,16 @@
+==See also==
+* [[Gay literature]]
+* [[List of LGBT-themed speculative fiction]]
+* [[Lists of LGBT figures in fiction and myth]]
+* [[List of lesbian fiction]]
+
+==References==
+{{reflist|refs=
+<ref name="BIC">{{cite book|title=Gay Novels of Britain, Ireland and the Commonwealth, 1881-1981: A Reader's Guide|year=2014|author=Drewey Wayne Gunn|isbn=0786497246}}</ref>
+<ref name="GLBTQ-Am-1">{{cite web |url=http://www.glbtq.com/literature/am_lit2_gay_1900_1969.html |title=American Literature: Gay Male, 1900-1969 |first=Joseph |last=Cady |page=1 |publisher=[[glbtq.com]]|url-status=dead |archive-url=https://web.archive.org/web/20150221212050/http://www.glbtq.com/literature/am_lit2_gay_1900_1969.html |archive-date=February 21, 2015 }}</ref>
+<ref name="GLBTQ-Am-2">{{cite web |url=http://www.glbtq.com/literature/am_lit2_gay_1900_1969,2.html |title=American Literature: Gay Male, 1900-1969 |first=Joseph |last=Cady |page=2 |publisher=[[glbtq.com]]|url-status=dead |archive-url=https://web.archive.org/web/20150221212050/http://www.glbtq.com/literature/am_lit2_gay_1900_1969,2.html |archive-date=February 21, 2015 }}</ref>
+<ref name="GLBTQ-Am-3">{{cite web |url=http://www.glbtq.com/literature/am_lit2_gay_1900_1969,3.html |title=American Literature: Gay Male, 1900-1969 |first=Joseph |last=Cady |page=3 |publisher=[[glbtq.com]]|url-status=dead |archive-url=https://web.archive.org/web/20150221212050/http://www.glbtq.com/literature/am_lit2_gay_1900_1969,3.html |archive-date=February 21, 2015 }}</ref>
+<ref name="Lost">{{cite book |last=Slide |first=Anthony |author-link=Anthony Slide |title=Lost Gay Novels: A Reference Guide to Fifty Works from the First Half of the Twentieth Century |publisher=[[Routledge]] |year=2003 |title-link=Lost Gay Novels|doi=10.4324/9780203057230 }}</ref>
+}}
+
+[[Category:Novels with gay themes|*]]
